@@ -1,0 +1,33 @@
+.flexbox-fix {
+  background-color: white !important;
+}
+.photoshop-picker > div {
+  background-color: white !important;
+}
+/* .rc-editable-input-2 {
+  border-radius: 20px !important;
+} */
+input {
+  border-radius: 6px !important;
+}
+
+.chrome-picker {
+  width: 422px !important;
+  background: rgb(255, 255, 255);
+  border-radius: 2px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px, rgb(0 0 0 / 10%) 0px 0px 0px !important;
+  box-sizing: initial;
+  font-family: Menlo;
+  height: 330px !important;
+}
+.switchers {
+  width: 422px !important;
+  height: 200px !important;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 2px, rgb(0 0 0 / 10%) 0px 4px 8px !important;
+}
+.swicherArea {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+  flex-wrap: wrap;
+}
